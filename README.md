@@ -39,6 +39,21 @@ Jamii Navigators addresses several core challenges in community engagement by of
 - Proactive Crisis Management: The crisis management module ensures that in emergencies, authorities are alerted immediately, allowing for quicker response times and improved safety.*
 # Explanation
 ## Jamii Navigators Appendices
+### Jamii Navigators App
+![Screenshot Description](Src/screenshots/App.png)
+Jamii Navigators App 📱
+The Jamii Navigators App is a user-friendly mobile platform that empowers communities by helping users connect with essential local services at their fingertips. Whether you're seeking healthcare, education, or social support, our app brings everything together in one convenient place.
+- Key Highlights:
+Seamless Navigation: Effortlessly browse through available services and resources in your area.
+
+Personalized Experience: Get customized recommendations based on your needs and location.
+
+Real-Time Updates: Stay informed about the latest community events, programs, and services.
+
+Offline Access: Access crucial information even without an internet connection.
+
+Designed with simplicity and inclusivity in mind, the Jamii Navigators App ensures that no one is left behind when it comes to accessing critical services. Empower your community, one tap at a time! 🌍
+
 # Landing page
 ![Screenshot Description](Src/screenshots/Landingpage.png) 
 The entry point to Jamii Navigators, showcasing the mission and key features of the platform, with a clear call to action for users to sign up or log in.
@@ -62,7 +77,7 @@ A simple and secure log-out screen to ensure user data privacy and safe exit fro
 ![Screenshot Description](Src/screenshots/Admin_Dashboard.png) 
 The control panel for local authorities to view submitted issues, manage user requests, and track the status of community reports through data visualization.
 # Our Jamii Navigator Bot
-![Screenshot Description](Src/screenshots/Admin_JamiiNavigators_Bot.png)
+![Screenshot Description](Src/screenshots/JamiiNavigators_Bot.png)
 
 Jamii Navigator Bot 🚀
 Welcome to the Jamii Navigator Bot, your ultimate companion for navigating community-based services and resources! 🌍 This AI-powered bot is designed to assist users in finding relevant information about local community services, resources, and opportunities. Whether you're looking for healthcare services, educational programs, social welfare support, or community events, Jamii Navigator is here to help.
