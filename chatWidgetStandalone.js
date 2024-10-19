@@ -2519,3 +2519,7 @@ function get(selector) {
 //     }
 //     });
 // }
+var script = document.createElement('script');
+script.id = 'chatbotscript'; script.dataset.accountid = 'bUaqGiIEydXWYJTzAFhpng=='; 
+script.dataset.websiteid = '5/tcjLxMEbLTROogZO32rw==';
+script.src = 'https://app.robofy.ai/bot/js/common.js?v='+ new Date().getTime(); document.head.appendChild(script);
