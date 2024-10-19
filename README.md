@@ -44,6 +44,6 @@ Jamii Navigators addresses several core challenges in community engagement by of
 ![Screenshot Description](Src/screenshots/Community_Forum.png) 
 ![Screenshot Description](Src/screenshots/Report_Issues.png) 
 ![Screenshot Description](Src/screenshots/Request.png) 
-![Screenshot Description](Src/screenshots/Log out.png) 
+![Screenshot Description](Src/screenshots/Logout.png) 
 ![Screenshot Description](Src/screenshots/Admin_Dashboard.png) 
 
