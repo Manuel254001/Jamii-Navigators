@@ -1,0 +1,175 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+   
+    <script src="https://kit.fontawesome.com/4cf21112a2.js" crossorigin="anonymous"></script>
+    <title>JAMII NAVIGATORS</title>
+</head>
+<body>
+    <header>
+        <div class="logo">Jamii Navigators</div>
+        <nav>
+            <ul>
+                <li><a href="#home">Home</a></li>
+                <li><a href="#request">Request Service</a></li>
+                <li><a href="#forum">Community Forum</a></li>
+                <li><a href="#report">Report Issue</a></li> 
+                <li><a href="#contact">Contact Us</a></li>
+                <li><a href="admin.html" target="_blank" class="link">Admin Log In</a></li>
+                <li><a href="landing.html" target="_blank" class="link">Log Out</a></li>
+            </ul>
+        </nav>
+        <input type="text" placeholder="Search..." class="search-bar">
+    </header>
+
+    <main>
+        <section id="home">
+            <h1>Welcome to <span class=" jamii">Jamii Navigators</span></h1>
+            <h4>We are a community of people around Masomo Tamu university.</h4>
+            <div class="announcements">
+                <h2>Featured Announcements</h2>
+<div class="announcements-container">
+    <div class="announcement">
+        <h3>Security alert!</h3>
+        <p>There were recent suspicious activity around Muthurwa Market during night time</p>
+        <img src="security_alert.jpg" alt="Security alert photo">
+    </div>
+    <div class="announcement">
+        <h3>Health Updates</h3>
+        <p>There will be a massive vaccination drive against polio for Children aged 3-12 years starting on 9th to 16th November this month.</p>
+        <img src="vaccination.jpg" alt="A picture of a person holding a needle">
+    </div>
+    <div class="announcement">
+        <h3>Career Fair</h3>
+        <p>The university Career fair is scheduled for the 9th of this month.</p>
+        <img src="careerfair.jpg" alt="Picture showing student holding hands">
+    </div>
+    <div class="announcement">
+        <h3>Wasoso Children Home activity</h3>
+        <p>The community service for this week will be held at Wasoso Children home on our usual day, that is Sunday.</p>
+        <img src="childrenhome.jpg" alt="Picture of a Children home">
+    </div>
+</div>
+            </div>
+            <div class="quick-links">
+                <button onclick="location.href='#report'">Report Issue</button>
+                <button onclick="location.href='#request'">Request Service</button>
+            </div>
+        </section>
+        <section id="request">
+            <h2>Request a Service</h2>
+            <form id="request-form">
+                <label for="serviceType">Service Type:</label>
+                <select id="serviceType" name="serviceType">
+                    <option value="Maintenance">Maintenance</option>
+                    <option value="Transportation">Transportation service</option>
+                    <option value="Catering">Catering services</option>
+                    <option value="Accomodation">House Accomodation</option> 
+                    <option value="Security">Security</option>
+                    <option value="Health">Health</option>
+                    <option value="LostAndFound">Lost And Found</option>
+                    <option value="Recreational">Co-curricular and Recreational services</option>
+                    <option value="LegalorFinancial Aid">Legal or Financial Aid</option>
+                </select>
+
+                <label for="details">Details:</label>
+                <textarea id="details" name="details" placeholder="Type the details here..." required></textarea>
+
+                <button type="submit">Request</button>
+            </form>
+        </section>
+        <section id="forum">
+            <h2>Community Forum</h2>
+            <p>Join the discussion!</p>
+            <!-- Forum threads will be dynamically generated here -->
+            <div class="forum-thread">
+                <h3>Job and Internship opportunities</h3>
+                <p>Posted by <strong>Mark Abengo</strong> on 12/12/2024</p>
+                <p>There are job vaccancies at Wachepele Resort, Kimonyoski Road Junction. Waiters and waitress needed. Make sure to drop your Cv, cover letter and identification documents there.</p>
+            </div>
+            <div class="forum-thread">
+                <h3>Health and Wellness</h3>
+                <p>Posted by <strong>Kioko Muthokoi</strong></p>
+                <p>I have been feeling depressed and sad lately. I feel like giving up in life and dissapeering for good........What should I do??<i class="fa-solid fa-face-sad-tear"></i><i class="fa-solid fa-face-sad-tear"></i><i class="fa-solid fa-face-sad-tear"></i><i class="fa-solid fa-face-sad-tear"></i></p>
+            </div>
+            <div class="forum-thread">
+                <h3>Pad Drive Idea</h3>
+                <p>Posted by <strong></strong></p>
+                <p>I was of the idea that we organize a pad drive that we organize a pad drive for our less fortunate girls at the social hall this coming Saturday<i class="fa-regular fa-face-thinking"></i><i class="fa-regular fa-face-thinking"></i><i class="fa-regular fa-face-thinking"></i></p>
+            </div>
+        </section>
+
+
+        <section id="report">
+            <h2>Report an Issue/ Problem/ Concern</h2>
+            <form id="report-form">
+                <label for="issueType">Issue Type:</label>
+                <select id="issueType" name="issueType">
+                    <option value="Security">Security</option>
+                    <option value="Health">Health</option>
+                    <option value="maintenance">Facility and maintenance issues</option>
+                    <option value="technology">Technology issues</option>
+                    <option value="Infrastructure">Infrastructure</option>
+                    <option value="Environmental">Environmental</option>
+                    <option value="others">Other issues*</option>
+                </select>
+
+                <label for="issueType">Area:</label>
+                <select id="issueType" name="issueType">
+                    <option value="Security">Kanguro North</option>
+                    <option value="Health">Kanguro South</option>
+                    <option value="maintenance">Thogonoi</option>
+                    <option value="technology">Suswa</option>
+                    <option value="Infrastructure">Wakegosho</option>
+                    <option value="others">Kisumu ndogo</option>
+                </select>
+
+                <label for="issueType">Urgency:</label>
+                <select id="issueType" name="issueType">
+                    <option value="Security">High</option>
+                    <option value="Health">Medium</option>
+                    <option value="maintenance">Low</option>
+                </select>
+                
+                <label for="description">Description:</label>
+                <textarea id="description" name="description"placeholder="Type your issue here..." required></textarea>
+                <label for="fileUpload">Upload Supporting Evidence (e.g., Video, Image, Audio):</label>
+                <input type="file" id="fileUpload" name="fileUpload" accept="*/*" required>
+                
+                <button type="submit">Submit</button>
+            </form>
+        </section>
+
+
+
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+            <form id="contact-form">
+                <label for="name">Name:</label>
+                <input type="text" id="name" name="name" placeholder="Enter your name here..." required>
+
+                <label for="email">Email:</label>
+                <input type="email" id="email" name="email" placeholder="E.g wamweruwagitomo@gmail.com" required>
+
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" placeholder="Leave your message here..."></textarea>
+
+                <button type="submit">Send Message</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        
+        <p><span id="spanDate"></span> Email: info@jamii.co.ke or help@jamii.co.ke</p>
+        <p><span id="spanDate"></span> Phone: 020 559556 or +254711909808</p>
+        <p>&copy; <span id="spanDate"></span> Jamii Navigators. All rights reserved.</p>
+    </footer>
+
+    <script src="index.js"></script>
+</body>
+</html>
