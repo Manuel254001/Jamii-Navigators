@@ -32,8 +32,8 @@ Jamii Navigators addresses several core challenges in community engagement by of
 
 # Jamii Navigators Benefits
 
-*Improved Communication and Engagement: Jamii Navigators enhances the interaction between community members and authorities, making it easier for concerns to be raised and resolved in a timely manner.
-*Increased Efficiency in Problem Solving: The streamlined processes reduce delays, ensuring that issues are quickly addressed. Users are kept informed throughout the entire process, improving their experience.
-*Data-Driven Decision Making: The platform allows authorities to analyze reported issues, identify trends, and prioritize resources more effectively, ensuring that critical problems are dealt with first.
-*Enhanced Transparency and Trust: By providing real-time updates and a feedback loop, Jamii Navigators fosters a culture of accountability, where community members trust that their concerns will be taken seriously and addressed properly.
+*Improved Communication and Engagement: Jamii Navigators enhances the interaction between community members and authorities, making it easier for concerns to be raised and resolved in a timely manner.*
+* Increased Efficiency in Problem Solving: The streamlined processes reduce delays, ensuring that issues are quickly addressed. Users are kept informed throughout the entire process, improving their experience.
+**Data-Driven Decision Making: The platform allows authorities to analyze reported issues, identify trends, and prioritize resources more effectively, ensuring that critical problems are dealt with first.
+** Enhanced Transparency and Trust: By providing real-time updates and a feedback loop, Jamii Navigators fosters a culture of accountability, where community members trust that their concerns will be taken seriously and addressed properly.
 *Proactive Crisis Management: The crisis management module ensures that in emergencies, authorities are alerted immediately, allowing for quicker response times and improved safety.
