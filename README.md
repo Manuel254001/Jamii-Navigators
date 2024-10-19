@@ -61,3 +61,15 @@ A simple and secure log-out screen to ensure user data privacy and safe exit fro
 # Admin Dashboard
 ![Screenshot Description](Src/screenshots/Admin_Dashboard.png) 
 The control panel for local authorities to view submitted issues, manage user requests, and track the status of community reports through data visualization.
+# Our Jamii Navigator Bot
+![Screenshot Description](Src/screenshots/Admin_JamiiNavigators_Bot.png)
+
+Jamii Navigator Bot 🚀
+Welcome to the Jamii Navigator Bot, your ultimate companion for navigating community-based services and resources! 🌍 This AI-powered bot is designed to assist users in finding relevant information about local community services, resources, and opportunities. Whether you're looking for healthcare services, educational programs, social welfare support, or community events, Jamii Navigator is here to help.
+
+Key Features 🎯
+- Smart Recommendations: The bot provides personalized recommendations based on user input, helping you find the exact services you need in your community.
+- Intuitive Interface: With an easy-to-use chat interface, users can interact with the bot effortlessly and get real-time responses.
+- Resource Locator: It helps users find locations of nearby essential services such as hospitals, schools, and government offices.
+- Admin Dashboard: Manage and customize bot responses, track interactions, and gain insights using our sleek admin panel (screenshot below).
+
