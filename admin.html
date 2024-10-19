@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="admin.css">
+    <title>Admin Dashboard - Jamii Navigators</title>
+</head>
+<body>
+    <header>
+        <div class="logo">Jamii Navigators Admin</div>
+        <nav>
+            <ul>
+                <li><a href="index.html" target="_blank">Home</a></li>
+                <li><a href="#dashboard">Dashboard</a></li>
+                <li><a href="#reports">Reports</a></li>
+                <li><a href="#requests">Requests</a></li>
+                <li><a href="#settings">Settings</a></li>
+                <li><a href="#logout">Logout</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="dashboard">
+            <h1>Admin Dashboard</h1>
+            <div class="stats">
+                <div class="stat-box">
+                    <h2>Total Reports</h2>
+                    <p id="total-reports">0</p>
+                </div>
+                <div class="stat-box">
+                    <h2>Total Requests</h2>
+                    <p id="total-requests">0</p>
+                </div>
+            </div>
+        </section>
+
+        <section id="reports">
+            <h2>Incoming Reports</h2>
+            <div id="reports-container"></div>
+        </section>
+
+        <section id="requests">
+            <h2>Incoming Requests</h2>
+            <div id="requests-container"></div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy; <span id="footer-date"></span> Engage Hub Admin. All rights reserved.</p>
+    </footer>
+
+    <script src="admin.js"></script>
+</body>
+</html>
