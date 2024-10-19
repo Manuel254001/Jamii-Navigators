@@ -38,4 +38,6 @@ Jamii Navigators addresses several core challenges in community engagement by of
 - Enhanced Transparency and Trust: By providing real-time updates and a feedback loop, Jamii Navigators fosters a culture of accountability, where community members trust that their concerns will be taken seriously and addressed properly.
 - Proactive Crisis Management: The crisis management module ensures that in emergencies, authorities are alerted immediately, allowing for quicker response times and improved safety.*
 # Explanation
+## Jamii Navigators Appendices
+![Screenshot Description](src/screenshots_Home.png) 
 
