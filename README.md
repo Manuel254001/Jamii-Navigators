@@ -40,10 +40,23 @@ Jamii Navigators addresses several core challenges in community engagement by of
 # Explanation
 ## Jamii Navigators Appendices
 ![Screenshot Description](Src/screenshots/Landingpage.png) 
-![Screenshot Description](Src/screenshots/Home.png) 
-![Screenshot Description](Src/screenshots/Community_Forum.png) 
-![Screenshot Description](Src/screenshots/Report_Issues.png) 
-![Screenshot Description](Src/screenshots/Request.png) 
-![Screenshot Description](Src/screenshots/Log_out.png) 
-![Screenshot Description](Src/screenshots/Admin_Dashboard.png) 
+The entry point to Jamii Navigators, showcasing the mission and key features of the platform, with a clear call to action for users to sign up or log in.
 
+![Screenshot Description](Src/screenshots/Home.png) 
+The main dashboard where users can navigate various sections of the app, including reporting issues, requesting services, and accessing community resources.
+
+![Screenshot Description](Src/screenshots/Community_Forum.png) 
+A space where users can engage with each other, share updates, and discuss community topics. This fosters communication and collaboration within the community.
+
+![Screenshot Description](Src/screenshots/Report_Issues.png) 
+
+A form-based interface where users can easily submit issues or concerns, categorized by type (e.g., maintenance, security) to ensure efficient resolution.
+
+![Screenshot Description](Src/screenshots/Request.png) 
+This section allows users to request services from local authorities, including facility maintenance, event organization, or general inquiries.
+
+![Screenshot Description](Src/screenshots/Log_out.png)
+A simple and secure log-out screen to ensure user data privacy and safe exit from the platform.
+
+![Screenshot Description](Src/screenshots/Admin_Dashboard.png) 
+The control panel for local authorities to view submitted issues, manage user requests, and track the status of community reports through data visualization.
