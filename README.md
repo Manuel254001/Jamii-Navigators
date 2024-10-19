@@ -25,17 +25,17 @@ Key Features
 ## How Jamii Navigators Addresses Issues Holistically
 Jamii Navigators addresses several core challenges in community engagement by offering a platform that focuses on clear, fast, and efficient communication:
 - Accessibility: By providing both a mobile and web application, Jamii Navigators ensures that users can report issues or request services anytime, anywhere.
-  - Streamlined Communication: Through dedicated channels for various categories of requests (e.g., maintenance, security, information), Jamii Navigators makes it easier for community members to communicate with the right authorities.
-  - Accountability: The dashboard for authorities not only helps track and manage requests but also provides transparency. Users can see updates and responses to their issues, which holds the authorities accountable.
+- Streamlined Communication: Through dedicated channels for various categories of requests (e.g., maintenance, security, information), Jamii Navigators makes it easier for community members to communicate with the right authorities.
+- Accountability: The dashboard for authorities not only helps track and manage requests but also provides transparency. Users can see updates and responses to their issues, which holds the authorities accountable.
 - Real-Time Updates: With the notification system, users are kept informed on the progress of their submissions without needing to follow up, reducing frustration.
 - Data-Driven Insights: The platform provides data visualization tools for authorities to analyze common issues and trends, enabling proactive solutions rather than reactive ones.
 
 # Jamii Navigators Benefits
 
-*Improved Communication and Engagement: Jamii Navigators enhances the interaction between community members and authorities, making it easier for concerns to be raised and resolved in a timely manner.*
-*Increased Efficiency in Problem Solving: The streamlined processes reduce delays, ensuring that issues are quickly addressed. Users are kept informed throughout the entire process, improving their experience.*
-*Data-Driven Decision Making: The platform allows authorities to analyze reported issues, identify trends, and prioritize resources more effectively, ensuring that critical problems are dealt with first.*
-*Enhanced Transparency and Trust: By providing real-time updates and a feedback loop, Jamii Navigators fosters a culture of accountability, where community members trust that their concerns will be taken seriously and addressed properly.*
-*Proactive Crisis Management: The crisis management module ensures that in emergencies, authorities are alerted immediately, allowing for quicker response times and improved safety.*
+- Improved Communication and Engagement: Jamii Navigators enhances the interaction between community members and authorities, making it easier for concerns to be raised and resolved in a timely manner.
+- Increased Efficiency in Problem Solving: The streamlined processes reduce delays, ensuring that issues are quickly addressed. Users are kept informed throughout the entire process, improving their experience.
+- Data-Driven Decision Making: The platform allows authorities to analyze reported issues, identify trends, and prioritize resources more effectively, ensuring that critical problems are dealt with first.
+- Enhanced Transparency and Trust: By providing real-time updates and a feedback loop, Jamii Navigators fosters a culture of accountability, where community members trust that their concerns will be taken seriously and addressed properly.
+- Proactive Crisis Management: The crisis management module ensures that in emergencies, authorities are alerted immediately, allowing for quicker response times and improved safety.*
 # Explanation
 
