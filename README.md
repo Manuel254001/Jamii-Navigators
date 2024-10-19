@@ -39,5 +39,11 @@ Jamii Navigators addresses several core challenges in community engagement by of
 - Proactive Crisis Management: The crisis management module ensures that in emergencies, authorities are alerted immediately, allowing for quicker response times and improved safety.*
 # Explanation
 ## Jamii Navigators Appendices
+![Screenshot Description](Src/screenshots/Landingpage.png) 
 ![Screenshot Description](Src/screenshots/Home.png) 
+![Screenshot Description](Src/screenshots/Community_Forum.png) 
+![Screenshot Description](Src/screenshots/Report_Issues.png) 
+![Screenshot Description](Src/screenshots/Request.png) 
+![Screenshot Description](Src/screenshots/Log out.png) 
+![Screenshot Description](Src/screenshots/Admin_Dashboard.png) 
 
